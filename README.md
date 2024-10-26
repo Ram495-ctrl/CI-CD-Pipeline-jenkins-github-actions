@@ -5,9 +5,9 @@
 - QR code authentication sync
 
 ## Demo
-<img width="50%" src="/assets/login.JPG" alt="login">
-<img width="50%" src="/assets/verify.JPG" alt="verify">
-<img width="50%" src="/assets/2facode.JPG" alt="verify">
+![login](https://github.com/user-attachments/assets/aee32a0c-331a-4e05-98e6-580737d389eb)
+
+![verify](https://github.com/user-attachments/assets/d166b7cb-fa55-4a34-9b78-a8ede86f2c05)
 
 ## Flask
 ### Localhost
