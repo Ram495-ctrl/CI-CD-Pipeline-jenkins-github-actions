@@ -9,6 +9,9 @@
 
 ![verify](https://github.com/user-attachments/assets/d166b7cb-fa55-4a34-9b78-a8ede86f2c05)
 
+![2facode](https://github.com/user-attachments/assets/75e7017a-619c-45ed-9dc2-5133af53ec9d)
+
+
 ## Flask
 ### Localhost
 ```python -m flask run```
